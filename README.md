@@ -3,6 +3,7 @@
 # ⚡ Blockchain-Enabled Energy Trading System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-11176517-00629B?logo=ieee&logoColor=white)](https://xplorestaging.ieee.org/document/11176517)
 [![Solidity](https://img.shields.io/badge/Solidity-%5E0.8.20-363636?logo=solidity)](https://soliditylang.org/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-2.x-FFF100?logo=hardhat)](https://hardhat.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?logo=nodedotjs)](https://nodejs.org/)
@@ -294,12 +295,22 @@ npx hardhat run scripts/deploy.js --network mainnet
 
 This repository accompanies the research paper:
 
-> **"Blockchain Enabled Energy Trading System"**
-> M. Menaka, M. Tharani, M. Pemila, S. Affrin Wills, M. Abishek, G. S. Ajay Adithya
-> *Department of Electronics and Communication Engineering*
-> *Veltech High Tech Dr Rangarajan Dr Sakunthala Engineering College, Avadi, Tamil Nadu, India*
+> **"Blockchain Enabled Energy Trading System"**  
+> **Authors:** S. Affrin Wills, M. Abishek, G. S. Ajay Adithya  
+> **Published in IEEE Xplore:** [https://xplorestaging.ieee.org/document/11176517](https://xplorestaging.ieee.org/document/11176517)
 
 The paper covers the complete theoretical framework, literature survey, system methodology, hardware/software components, and simulation results.
+
+### Citation
+
+```bibtex
+@INPROCEEDINGS{11176517,
+  author={Wills, S. Affrin and Abishek, M. and Ajay Adithya, G. S.},
+  title={Blockchain Enabled Energy Trading System}, 
+  year={2024},
+  url={https://xplorestaging.ieee.org/document/11176517}
+}
+```
 
 ## Contributing
 
@@ -309,12 +320,9 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 | Name | Email | Role |
 |------|-------|------|
-| **M. Menaka** | m.menaka@velhightech.com | Faculty Advisor |
-| **M. Tharani** | tharani.adhiyamaan@gmail.com | Faculty Advisor |
-| **M. Pemila** | m.pemila@velhightech.com | Faculty Advisor |
-| **S. Affrin Wills** | affrinwills@gmail.com | Developer |
-| **M. Abishek** | sai248627@gmail.com | Developer |
-| **G. S. Ajay Adithya** | ajayadhithyag@gmail.com | Developer |
+| **S. Affrin Wills** | affrinwills@gmail.com | Lead Developer / Researcher |
+| **M. Abishek** | sai248627@gmail.com | Developer / Researcher |
+| **G. S. Ajay Adithya** | ajayadhithyag@gmail.com | Developer / Researcher |
 
 ## License
 
@@ -325,7 +333,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - [OpenZeppelin](https://openzeppelin.com/) for secure smart contract libraries
 - [Hardhat](https://hardhat.org/) for the Ethereum development environment
 - [Ethereum Foundation](https://ethereum.org/) for blockchain infrastructure
-- Veltech High Tech Dr Rangarajan Dr Sakunthala Engineering College for institutional support
 
 ---
 
