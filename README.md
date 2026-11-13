@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Blockchain-Enabled Energy Trading System
+#  Blockchain-Enabled Energy Trading System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-11176517-00629B?logo=ieee&logoColor=white)](https://xplorestaging.ieee.org/document/11176517)
